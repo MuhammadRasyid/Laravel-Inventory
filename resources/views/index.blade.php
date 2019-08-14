@@ -60,10 +60,7 @@
               </ul>
             </li>            
             <li><a href="forms.html"> <i class="icon-padnote"></i>Forms </a></li>                        
-          </ul><span class="heading">Extras</span>
-          <ul class="list-unstyled">
-            <li> <a href="#"> <i class="icon-flask"></i>Demo </a></li>
-          </ul>
+          </ul>          
         </nav>
         <div class="content-inner">
           <!-- Page Header-->
