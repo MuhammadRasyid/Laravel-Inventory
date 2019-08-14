@@ -21,4 +21,8 @@ class PageController extends Controller
     {
         return view('login');
     }
+    public function crew()
+    {
+        return view('crew.index');
+    }
 }

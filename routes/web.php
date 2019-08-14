@@ -20,3 +20,4 @@ Route::get('/crew', function () {
 
 Route::get('/' , 'PageController@home');
 Route::get('/login' , 'PageController@login');
+Route::get('/crewa' , 'PageController@crew');
